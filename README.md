@@ -9,6 +9,9 @@
 npm -g i hexo
 npm i
 
+// 创建博客名
+hexo new ${TITLE}
+
 // 本地开发调试预览
 hexo s
 
