@@ -12,7 +12,7 @@ npm i
 // 创建博客名
 hexo new ${TITLE}
 
-// 本地开发调试预览
+// 本地开发调试预览， 访问：http://localhost:4000/blogs
 hexo s
 
 // 本地站点生成
