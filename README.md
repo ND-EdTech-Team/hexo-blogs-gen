@@ -4,7 +4,7 @@
 # 使用方法
 请确保工作环境安装： Nodejs 且版本 >= 8.x
 
-```javascript
+```shell
 // 推荐用yarn
 npm -g i hexo
 npm i
@@ -20,4 +20,9 @@ hexo g
 
 // 推送 blogs 项目 github pages（需要权限或者登陆）
 hexo deploy
+
+// 清空缓存
+hexo clean
+
+// 删除请到 source/_posts 下删除，同时执行 hexo clean
 ```
