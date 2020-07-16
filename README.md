@@ -4,7 +4,7 @@
 # 使用方法
 请确保工作环境安装： Nodejs 且版本 >= 8.x
 
-```shell
+```
 // 推荐用yarn
 npm -g i hexo
 npm i
