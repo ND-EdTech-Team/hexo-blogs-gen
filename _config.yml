@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://github.com/ND-EdTech-Team/github.io
-root: /github.io
+url: https://github.com/ND-EdTech-Team/blogs
+root: /blogs
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -99,5 +99,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ND-EdTech-Team/github.io
+  repo: https://github.com/ND-EdTech-Team/blogs
   branch: master
