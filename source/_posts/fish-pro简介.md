@@ -2,6 +2,10 @@
 title: fish-pro简介
 date: 2020-07-16 19:56:11
 tags:
+- Fish
+- 后台
+categories:
+- Web
 ---
 # fish pro 是什么
 
@@ -58,11 +62,3 @@ fish pro 是一套基于 react 的 **通用后台管理最佳实践**，为工�
 - 希望后台能够快速接入工程院基础能力：UC、RBAC、CS 等
 - 希望后台可以被聚合后台 或其他前台项目快速接入复用
 - 希望后台具有较强的自定义能力，例如：主体内容个性化展示
-
-<a name="VdfhR"></a>
-## 相关截图
-后台：<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/85699/1561702419785-e1a2b3a5-756e-4ac5-9399-98361ef35997.png#align=left&display=inline&height=834&name=image.png&originHeight=1668&originWidth=2872&size=394994&status=done&style=none&width=1436)
-
-接入聚合后台：<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/85699/1561702630343-0f83a10e-3fe5-446b-8827-6c9fdb4b375f.png#align=left&display=inline&height=795&name=image.png&originHeight=1590&originWidth=2876&size=378880&status=done&style=none&width=1438)
-<a name="EEKwz"></a>
-## 
