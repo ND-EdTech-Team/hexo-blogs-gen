@@ -4,17 +4,17 @@
 
 # Site
 title: AE
-subtitle: '工程院技术博客'
+subtitle: '网龙教育开发者技术博客'
 description: ''
 keywords:
-author: ND
+author: 网龙教育开发者团队
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://github.com/ND-EdTech-Team/blogs
-root: /blogs
+url: https://nd-edtech-team.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -99,5 +99,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ND-EdTech-Team/blogs
+  repo: https://github.com/ND-EdTech-Team/ND-EdTech-Team.github.io
   branch: master
